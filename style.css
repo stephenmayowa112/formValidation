@@ -1,0 +1,37 @@
+div{
+    display: flex; 
+  flex-direction: column; 
+  align-items: center; 
+  justify-content: center; 
+  width: 300px; 
+  margin: 80px auto; 
+  padding: 15px; 
+  border-radius: 7px;
+  background: linear-gradient(to bottom, #007bff, #00c7ff); 
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); 
+  color: #fff;
+}
+
+
+  input[type="text"], input[type="email"],input[type="password"],input[type="submit"] 
+  {
+    width: 85%; 
+    padding: 10px; 
+    border: 1px solid #ccc; 
+    border-radius: 5px; 
+    margin-bottom: 7px; 
+  }
+  
+  input[type="submit"] {
+    background-color: #135668; 
+    color: #fff; 
+    border: none; 
+    padding: 10px 15px; 
+    border-radius: 3px;
+    cursor: pointer; 
+  }
+
+  
+  
+  
+  
