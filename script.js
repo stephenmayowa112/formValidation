@@ -42,7 +42,9 @@ function validateForm() {
     alert("Form submitted successfully! Your email has been stored locally.");
 
   }
-
+console.log(firstName);
+console.log(lastName);
+console.log(email);
   
 
 
